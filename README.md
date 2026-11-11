@@ -15,3 +15,18 @@ for organizing academic notes and practical work.
 Section: 3G
 -Session: 2026-2027
 -Faculty: Dr. Sangeeta
+
+
+## Project Structure
+
+
+- README.md: Project overview
+notes/: Subject-wise academic notes
+- .gitignore: Files exclusive from version control
+
+
+
+## Learning Goals
+- Practice git branching
+- Understand remote repositories
+- Learn collaborative development
